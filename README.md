@@ -1,22 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=I%20am&height=100&fontSize=40&fontAlignY=55&desc=" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&section=header&text=I%20am%20%0Ashroumith&fontSize=50&fontAlignY=40&color=0:8871e5,100:b678c4&stroke=b678c4" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=shroumith&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4" />
-</p>
 
 ## About Me    
-I'm a computer science guy with a knack for AI and machine learning. I've built loads of websites over the years and even worked on augmented reality projects - that futuristic stuff is so cool! Graphic design is one of my favorite hobbies when I'm not coding. I'm also really into digital marketing and have done a ton of work in that space. On top of all that, I'm an entrepreneur running my own business. Technology is my passion and I love exploring all the different areas it touches.
+I'm a computer science engineer with a strong grip on data structures and problem-solving. I've built several functional projects in Java and Python, always aiming for clean and efficient code. From web development with HTML and CSS to frameworks like Flask and SpringBoot, I love exploring how tech fits together. I'm also into tools like OpenCV, NumPy, and Trello, and I enjoy working on anything that blends logic with creativity. When I’m not coding, I dive into design with Figma or brush up on my machine learning skills. I'm passionate about tech and always curious to learn what's next.
 
 ---
 
 ## Languages and Tools 
 
 ### Languages:
-| Python | C | C++ | Embedded C | JS | PhP |
-|--------|----|-----|-------------|-----|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55"/> | <img src="https://raw.githubusercontent.com/shroumith-simha/assets/main/embedded-c.png" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="55"/> |
+
+| Java | Python | C | C++ | Embedded C | JS | PHP |
+|--------|----|-----|------|------------|-----|-----|
+ | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55"/> | <img src="https://raw.githubusercontent.com/shroumith-simha/assets/main/embedded-c.png" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="55"/> |
 
 ---
 
@@ -51,9 +49,10 @@ I'm a computer science guy with a knack for AI and machine learning. I've built 
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=shroumith-simha&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shroumith-simha&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
+
+---
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=shroumith-simha&style=for-the-badge&color=orange" alt=""/>
