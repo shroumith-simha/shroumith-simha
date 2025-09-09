@@ -41,11 +41,11 @@ I'm a computer science engineer with a strong grip on data structures and proble
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="55"/> |
 
 ---
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shroumith-simha&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&card_height=220" alt="GitHub Streak" /></a>
-  </p>
-  
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shroumith-simha&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&card_height=220" alt="GitHub Streak">
+</p>
+  
 ---
 
 <p align="center">
