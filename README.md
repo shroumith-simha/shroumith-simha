@@ -49,15 +49,18 @@ I'm a computer science engineer with a strong grip on data structures and proble
 ---
 
 <p align="center">
-  <img width="400" height="200" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shroumith-simha&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shroumith-simha&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shroumith-simha&theme=tokyonight"/>
 </p>
+
 
 ---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shroumith-simha&theme=tokyo-night&hide_border=true"/>
 </p>
+
+
 ---
 
 <div id="header" align="center">
